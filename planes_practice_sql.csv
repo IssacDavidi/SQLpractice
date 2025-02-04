@@ -1,0 +1,101 @@
+flight_id,airline,departure_city,arrival_city,departure_time,arrival_time,duration_minutes,aircraft_type,seat_capacity,passengers_on_board,ticket_price,status
+FL-0001,JetBlue,Port Veronicaville,East Ryan,2025-01-26 08:18:58,2025-01-26 17:10:58,532,Embraer E175,339,153,673.64,On Time
+FL-0002,Southwest,Rossland,West Carlaton,2025-01-24 03:11:59,2025-01-24 14:10:59,659,Airbus A380,283,168,771.09,On Time
+FL-0003,Delta,Port Aprilborough,North Stephanieville,2025-01-06 08:28:18,2025-01-06 13:52:18,324,Airbus A320,342,169,839.79,On Time
+FL-0004,American Airlines,Lake Bryan,Stephaniestad,2025-01-07 09:25:11,2025-01-07 19:26:11,601,Embraer E175,190,94,1497.16,On Time
+FL-0005,Southwest,Jamesport,East Petermouth,2025-01-10 13:14:31,2025-01-11 00:23:31,669,Airbus A320,290,135,314.4,Delayed
+FL-0006,United,West Timothy,Lake Aaron,2025-01-28 01:57:46,2025-01-28 08:02:46,365,Boeing 737,142,138,180.43,On Time
+FL-0007,Delta,Williamsfurt,Helenton,2025-01-30 12:33:41,2025-01-30 22:26:41,593,Boeing 737,314,258,1243.22,Cancelled
+FL-0008,United,South Samantha,Kevinburgh,2025-01-17 02:12:51,2025-01-17 06:31:51,259,Airbus A380,238,94,518.79,Cancelled
+FL-0009,Southwest,South Keith,Elizabethland,2025-01-08 04:56:54,2025-01-08 05:55:54,59,Airbus A320,273,208,291.86,On Time
+FL-0010,Delta,Randyview,Garciahaven,2025-01-10 09:12:46,2025-01-10 10:53:46,101,Boeing 777,277,264,221.21,Delayed
+FL-0011,American Airlines,Thomasview,Leeport,2025-02-03 07:25:08,2025-02-03 09:28:08,123,Embraer E175,195,52,672.92,Delayed
+FL-0012,JetBlue,West Josechester,Harperstad,2025-01-17 04:11:33,2025-01-17 10:27:33,376,Boeing 777,169,137,214.83,Cancelled
+FL-0013,JetBlue,Lake Isaiahville,South Amanda,2025-01-04 17:25:01,2025-01-05 02:07:01,522,Boeing 777,103,61,1277.55,Delayed
+FL-0014,Southwest,Smithfort,Jamestown,2025-01-28 09:08:18,2025-01-28 14:24:18,316,Embraer E175,183,149,883.61,Cancelled
+FL-0015,Delta,Ashleyfurt,New Benjamin,2025-01-04 19:44:07,2025-01-04 23:21:07,217,Airbus A320,222,117,384.12,Cancelled
+FL-0016,United,Meltonport,Ryanburgh,2025-01-07 04:36:14,2025-01-07 11:17:14,401,Airbus A320,396,88,1465.6,On Time
+FL-0017,American Airlines,Paulland,Jamesmouth,2025-01-09 15:04:35,2025-01-10 00:10:35,546,Embraer E175,354,164,155.0,Delayed
+FL-0018,American Airlines,Derekborough,Santiagofurt,2025-01-23 10:40:57,2025-01-23 17:01:57,381,Boeing 737,180,142,376.92,On Time
+FL-0019,Delta,Hillshire,East Randy,2025-01-27 15:11:07,2025-01-27 17:40:07,149,Boeing 777,334,243,714.63,On Time
+FL-0020,United,New Carol,Woodwardville,2025-01-31 23:13:21,2025-02-01 04:07:21,294,Airbus A320,114,102,973.59,Delayed
+FL-0021,Southwest,East Nancy,Baileytown,2025-02-02 15:51:22,2025-02-03 00:00:22,489,Airbus A320,139,58,1077.47,Cancelled
+FL-0022,Delta,East Angela,Blackville,2025-01-02 08:26:54,2025-01-02 10:20:54,114,Boeing 737,238,74,1235.17,Cancelled
+FL-0023,Southwest,Port Patriciaside,West Danielchester,2025-01-31 08:34:51,2025-01-31 14:14:51,340,Boeing 737,143,117,80.26,Delayed
+FL-0024,American Airlines,Odomshire,East Kelly,2025-01-07 23:30:23,2025-01-08 09:10:23,580,Airbus A380,273,122,1059.94,On Time
+FL-0025,United,Markshire,South Garyview,2025-01-28 08:38:09,2025-01-28 15:54:09,436,Boeing 777,240,180,775.4,Cancelled
+FL-0026,JetBlue,Port Patricia,North Kayla,2025-01-14 14:09:44,2025-01-15 01:05:44,656,Airbus A320,263,263,1371.72,On Time
+FL-0027,American Airlines,Williamsside,South Hailey,2025-01-07 12:32:27,2025-01-07 13:36:27,64,Boeing 777,337,138,499.22,On Time
+FL-0028,American Airlines,Turnerfort,Deborahstad,2025-01-24 19:29:53,2025-01-25 02:31:53,422,Embraer E175,358,111,1453.55,Cancelled
+FL-0029,Southwest,Nunezville,Millerhaven,2025-01-24 09:22:05,2025-01-24 14:10:05,288,Airbus A380,196,124,68.82,On Time
+FL-0030,United,Mindystad,North Michael,2025-01-01 03:31:27,2025-01-01 06:29:27,178,Embraer E175,252,234,976.87,Delayed
+FL-0031,American Airlines,Arnoldview,New Brett,2025-01-10 21:10:38,2025-01-11 00:12:38,182,Boeing 737,156,104,1368.82,Cancelled
+FL-0032,JetBlue,Jasonton,East Tyler,2025-01-01 03:52:26,2025-01-01 04:45:26,53,Airbus A320,371,220,1231.12,Cancelled
+FL-0033,American Airlines,Deannashire,Jonesfort,2025-01-29 17:40:10,2025-01-29 23:00:10,320,Airbus A380,344,320,1033.85,On Time
+FL-0034,JetBlue,East Johnland,South Kathryntown,2025-01-06 01:06:22,2025-01-06 05:29:22,263,Embraer E175,214,192,224.09,Delayed
+FL-0035,United,Taramouth,Kellyburgh,2025-01-27 12:04:12,2025-01-27 23:48:12,704,Airbus A320,365,256,724.31,On Time
+FL-0036,United,West Antonio,Tinaburgh,2025-01-31 07:44:13,2025-01-31 17:11:13,567,Embraer E175,268,56,707.11,Cancelled
+FL-0037,Delta,Hernandezbury,Lake Normaland,2025-01-03 17:38:10,2025-01-04 03:47:10,609,Airbus A380,259,225,639.89,Cancelled
+FL-0038,United,Hamptonland,Littleville,2025-01-26 04:00:16,2025-01-26 09:34:16,334,Boeing 777,309,53,1299.01,On Time
+FL-0039,United,North Keithland,Amytown,2025-01-14 07:40:55,2025-01-14 18:27:55,647,Embraer E175,352,121,708.07,Cancelled
+FL-0040,American Airlines,Port William,Lake Laura,2025-01-07 03:41:01,2025-01-07 13:33:01,592,Embraer E175,111,111,123.66,Delayed
+FL-0041,JetBlue,Lake Melissa,Lake Sallyport,2025-01-04 13:53:18,2025-01-04 20:47:18,414,Boeing 737,127,108,482.12,Delayed
+FL-0042,JetBlue,Ryantown,Morrisbury,2025-02-02 20:03:18,2025-02-02 21:39:18,96,Airbus A380,247,141,704.02,Delayed
+FL-0043,JetBlue,Woodwardview,Huntborough,2025-01-12 08:15:28,2025-01-12 18:00:28,585,Embraer E175,384,246,510.51,Delayed
+FL-0044,Delta,Lake Samueltown,Stephaniemouth,2025-01-17 04:19:13,2025-01-17 09:23:13,304,Airbus A380,220,214,762.89,Delayed
+FL-0045,American Airlines,East Davidborough,Lake James,2025-01-03 04:22:39,2025-01-03 11:42:39,440,Boeing 777,232,59,247.95,Delayed
+FL-0046,Southwest,Lake Georgebury,Thompsonview,2025-01-26 13:06:44,2025-01-27 00:45:44,699,Airbus A320,236,235,339.35,On Time
+FL-0047,Southwest,West Laura,East Natashafort,2025-01-02 16:18:49,2025-01-02 17:14:49,56,Embraer E175,158,155,1096.55,Delayed
+FL-0048,United,Meganhaven,Martinmouth,2025-01-08 10:42:52,2025-01-08 12:01:52,79,Embraer E175,321,85,1013.86,Cancelled
+FL-0049,JetBlue,East Aliciaville,Robertview,2025-01-30 04:11:33,2025-01-30 15:22:33,671,Boeing 737,256,111,556.83,On Time
+FL-0050,Delta,Gonzalezberg,Brownbury,2025-01-06 18:13:13,2025-01-07 04:37:13,624,Airbus A320,218,60,1360.58,Cancelled
+FL-0051,Delta,Aprilborough,Turnerberg,2025-01-18 03:28:49,2025-01-18 12:33:49,545,Embraer E175,160,108,1303.49,Cancelled
+FL-0052,JetBlue,Port Lindsey,Wilsonton,2025-01-20 18:29:59,2025-01-21 03:29:59,540,Airbus A320,202,88,1310.99,Cancelled
+FL-0053,American Airlines,Bryantstad,Lake Ashley,2025-01-31 17:38:48,2025-02-01 04:56:48,678,Boeing 737,106,105,1165.58,On Time
+FL-0054,American Airlines,Patriciatown,Vegaville,2025-01-22 01:34:49,2025-01-22 09:41:49,487,Boeing 777,188,159,620.03,On Time
+FL-0055,Delta,Coxville,South Michaelville,2025-02-03 21:46:39,2025-02-04 05:59:39,493,Boeing 737,344,292,1258.15,On Time
+FL-0056,Southwest,Jasminemouth,Priceburgh,2025-01-07 09:19:58,2025-01-07 18:13:58,534,Embraer E175,246,90,137.47,Delayed
+FL-0057,Delta,Jonesmouth,South Donna,2025-01-12 02:08:28,2025-01-12 07:40:28,332,Boeing 737,286,251,675.92,Delayed
+FL-0058,United,Howellberg,Wellschester,2025-02-01 18:57:58,2025-02-01 22:06:58,189,Boeing 777,187,166,576.27,Cancelled
+FL-0059,American Airlines,Davidfort,West Robertmouth,2025-01-24 21:03:50,2025-01-25 05:46:50,523,Boeing 777,380,67,593.18,Cancelled
+FL-0060,Southwest,Samanthaburgh,North James,2025-01-23 12:40:26,2025-01-23 17:21:26,281,Airbus A380,189,157,264.54,Delayed
+FL-0061,JetBlue,Morganberg,Lake Melissa,2025-01-06 22:59:57,2025-01-07 05:51:57,412,Airbus A380,295,235,753.4,Cancelled
+FL-0062,United,Mariashire,Lake Kyleton,2025-01-01 18:41:29,2025-01-02 01:28:29,407,Boeing 777,182,103,569.64,Delayed
+FL-0063,American Airlines,Anthonyshire,Port Valerieside,2025-01-15 14:27:02,2025-01-15 20:12:02,345,Boeing 737,271,225,1301.65,Delayed
+FL-0064,Southwest,North Dylanview,Henrymouth,2025-01-23 16:57:39,2025-01-24 00:54:39,477,Airbus A380,156,94,764.55,On Time
+FL-0065,Southwest,South Seanstad,Perryfurt,2025-01-08 01:37:40,2025-01-08 09:10:40,453,Embraer E175,147,60,535.13,Delayed
+FL-0066,American Airlines,Andersonfurt,Matthewsport,2025-01-23 05:43:32,2025-01-23 10:07:32,264,Boeing 777,183,91,244.66,Cancelled
+FL-0067,Delta,Lake Erintown,North Steven,2025-01-17 01:53:43,2025-01-17 13:14:43,681,Embraer E175,350,69,1182.1,Cancelled
+FL-0068,JetBlue,Jasmineville,East Ryan,2025-01-12 02:42:25,2025-01-12 11:08:25,506,Airbus A380,295,195,972.42,Cancelled
+FL-0069,United,South Kenneth,West Traciehaven,2025-02-03 06:53:10,2025-02-03 08:36:10,103,Boeing 777,282,172,1337.36,Delayed
+FL-0070,Southwest,Angelaport,North Nancyhaven,2025-01-13 19:10:39,2025-01-13 21:34:39,144,Airbus A380,300,300,232.42,Delayed
+FL-0071,Delta,Maryton,New Nataliemouth,2025-01-09 13:27:44,2025-01-09 22:10:44,523,Airbus A320,234,120,839.06,On Time
+FL-0072,Southwest,Douglaschester,Sarahburgh,2025-01-02 14:27:14,2025-01-02 23:56:14,569,Boeing 777,400,343,1336.11,On Time
+FL-0073,American Airlines,East Brianmouth,Ericside,2025-01-25 01:17:44,2025-01-25 08:13:44,416,Airbus A320,114,109,557.8,Cancelled
+FL-0074,JetBlue,Denisebury,Potterberg,2025-01-06 12:10:17,2025-01-07 00:00:17,710,Airbus A320,384,302,263.73,Cancelled
+FL-0075,United,Lake Steventown,Maryshire,2025-01-23 01:22:50,2025-01-23 13:20:50,718,Boeing 777,223,159,753.19,On Time
+FL-0076,JetBlue,New Spencer,Mistymouth,2025-01-15 08:23:28,2025-01-15 15:14:28,411,Boeing 777,154,93,1348.96,Delayed
+FL-0077,Southwest,West David,East Brittany,2025-01-11 21:47:07,2025-01-11 23:36:07,109,Embraer E175,165,149,343.27,Cancelled
+FL-0078,Delta,Fryport,East Laurastad,2025-01-06 13:08:20,2025-01-07 00:57:20,709,Embraer E175,337,239,169.77,Cancelled
+FL-0079,United,Mullinsport,Danielport,2025-02-01 12:20:09,2025-02-01 22:17:09,597,Boeing 777,140,119,951.11,Cancelled
+FL-0080,Southwest,New Lauraville,Lake Joan,2025-01-02 13:44:46,2025-01-02 16:09:46,145,Airbus A320,362,82,856.25,Delayed
+FL-0081,JetBlue,Hendersonbury,Ambermouth,2025-01-09 23:08:26,2025-01-10 00:48:26,100,Boeing 737,311,247,167.53,Delayed
+FL-0082,American Airlines,Normaburgh,North Sydney,2025-01-09 15:47:53,2025-01-10 01:21:53,574,Embraer E175,381,340,1210.92,Delayed
+FL-0083,Delta,Williambury,South Markbury,2025-01-01 04:19:46,2025-01-01 15:20:46,661,Airbus A320,263,225,74.71,Cancelled
+FL-0084,JetBlue,Timothystad,Randyville,2025-01-30 11:23:59,2025-01-30 18:52:59,449,Boeing 777,356,262,1172.27,Cancelled
+FL-0085,United,Antonioview,North Michaeltown,2025-01-27 10:52:32,2025-01-27 18:56:32,484,Airbus A380,306,266,584.07,Delayed
+FL-0086,American Airlines,Joshuabury,West Patrickberg,2025-01-08 17:59:23,2025-01-09 01:52:23,473,Boeing 737,166,59,917.31,Cancelled
+FL-0087,United,Stephenstad,Johnsonmouth,2025-01-20 19:00:51,2025-01-20 20:56:51,116,Airbus A380,364,320,197.69,Cancelled
+FL-0088,Southwest,Andreamouth,Port Susanhaven,2025-01-17 23:36:28,2025-01-18 05:19:28,343,Airbus A320,250,214,1072.22,On Time
+FL-0089,Southwest,Lake Jasonstad,North Robert,2025-01-01 19:04:47,2025-01-02 03:17:47,493,Airbus A320,248,52,940.95,On Time
+FL-0090,Southwest,Lake Tracy,Sandersmouth,2025-02-03 05:52:28,2025-02-03 09:28:28,216,Airbus A380,316,272,738.44,On Time
+FL-0091,Delta,Lake Joseph,West Chelseatown,2025-01-13 11:07:10,2025-01-13 12:59:10,112,Boeing 737,102,83,661.58,Cancelled
+FL-0092,Southwest,Port Paula,Johnborough,2025-01-07 08:22:00,2025-01-07 13:07:00,285,Boeing 737,392,54,447.58,On Time
+FL-0093,Southwest,Williamstad,New Nicole,2025-01-26 18:48:30,2025-01-27 05:56:30,668,Airbus A320,133,50,1295.25,On Time
+FL-0094,Delta,Bellborough,Meganborough,2025-01-20 07:29:00,2025-01-20 15:47:00,498,Airbus A380,316,243,192.77,On Time
+FL-0095,Delta,Luisfort,Lake Troyport,2025-02-02 01:57:14,2025-02-02 08:21:14,384,Airbus A380,154,86,1133.66,Delayed
+FL-0096,JetBlue,North Steven,Kevinview,2025-01-14 07:09:21,2025-01-14 11:45:21,276,Boeing 737,269,137,1474.98,Delayed
+FL-0097,JetBlue,Stephenland,Katherineburgh,2025-01-24 15:58:20,2025-01-24 22:01:20,363,Boeing 737,268,77,1201.28,On Time
+FL-0098,United,South Joshua,Blakebury,2025-01-22 15:29:43,2025-01-23 01:01:43,572,Airbus A320,265,61,1409.49,Cancelled
+FL-0099,American Airlines,Rossland,Port Bryan,2025-01-25 13:21:09,2025-01-25 21:09:09,468,Boeing 777,195,90,1102.63,Delayed
+FL-0100,American Airlines,East Veronicastad,Ramirezfurt,2025-01-31 13:55:33,2025-01-31 21:51:33,476,Boeing 737,287,103,822.09,Delayed

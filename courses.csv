@@ -1,20 +1,21 @@
-EnrollmentID,StudentID,CourseID,CourseName,Credits,Grade
-1,101,CS202,Operating Systems,4,C
-2,101,CS101,Introduction to Programming,3,A
-3,101,CS202,Operating Systems,4,A
-4,101,CS202,Operating Systems,4,C
-5,101,MATH201,Probability Theory,3,F
-6,102,CS101,Introduction to Programming,3,F
-7,102,MATH201,Probability Theory,3,A
-8,103,MATH102,Linear Algebra,3,A
-9,103,PHYS201,Thermodynamics,4,F
-10,103,PHYS201,Thermodynamics,4,F
-11,103,CS102,Data Structures,4,F
-12,104,PHYS101,Classical Mechanics,4,C
-13,104,CS101,Introduction to Programming,3,D
-14,104,PHYS101,Classical Mechanics,4,B
-15,105,CS102,Data Structures,4,C
-16,105,MATH102,Linear Algebra,3,B
-17,105,PHYS101,Classical Mechanics,4,F
-18,105,CS201,Database Systems,3,D
-19,105,MATH201,Probability Theory,3,F
+CourseID,CourseName,Credits
+201,Introduction to Python,3
+202,Data Structures and Algorithms,4
+203,Web Development,3
+204,Cybersecurity Fundamentals,3
+205,Machine Learning Basics,4
+206,Deep Learning,4
+207,Cloud Computing,3
+208,Mobile App Development,4
+209,Game Development,3
+210,Artificial Intelligence,4
+211,Big Data Analytics,3
+212,Blockchain Technology,4
+213,Computer Networks,3
+214,Database Management,4
+215,Software Engineering,3
+216,Internet of Things,4
+217,Digital Marketing,3
+218,Ethical Hacking,4
+219,Operating Systems,3
+220,Fintech,4
